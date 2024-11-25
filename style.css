@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(110, 221, 110);
+    font-style: italic;
+}
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+.Ex{
+    font-style: italic;
+}
+.main{
+    color: brown;
+    letter-spacing: 5px;
+}
+h3{
+    color: brown;
+}
+.css{
+    color: brown;
+    font-size: x-small;
+}
+.selector{
+    color: brown;
+    font-style: italic;
+}
+a{
+    color: brown;
+    background-color: yellow;
+    text-decoration: none;
+}
